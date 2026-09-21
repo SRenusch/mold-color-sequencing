@@ -1,0 +1,25 @@
+#!/bin/bash
+# Goal: Understand what single nucleotide polymorphism contibutes to the color change of the mold.
+# Author: Samantha Renusch
+# Email: samantharenusch@brandeis.edu
+# Date: 02/26/2024
+
+
+## Motif Finder ###
+
+### Description ###
+This trims a fastq file and the sorts them by the name. Then it processes the data to get the mutation that caused the color mold observed.
+
+Output:
+./bams
+./fastqs
+
+How to Run:
+
+To execute the script, navigate to the directory containing the script and run:
+
+source /opt/etc/profile.d/conda.sh
+conda activate /opt/.conda/envs/rbif100
+bwa index dgorgon_reference.fa
+python3 pipeline.py
+

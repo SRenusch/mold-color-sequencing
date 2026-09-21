@@ -1,0 +1,9 @@
+sample	group	contig	position_1_based	reference	alternate	depth	reference_count	alternate_count	alternate_fraction
+black_01	Black	synthetic_amplicon	14	A	C	40	20	20	0.5000
+black_02	Black	synthetic_amplicon	14	A	C	40	20	20	0.5000
+green_01	Green	synthetic_amplicon	135	C	A	40	20	20	0.5000
+green_02	Green	synthetic_amplicon	135	C	A	40	20	20	0.5000
+orange_01	Orange	synthetic_amplicon	84	T	C	40	20	20	0.5000
+orange_02	Orange	synthetic_amplicon	84	T	C	40	20	20	0.5000
+yellow_01	Yellow	synthetic_amplicon	121	C	G	40	20	20	0.5000
+yellow_02	Yellow	synthetic_amplicon	121	C	G	40	20	20	0.5000
